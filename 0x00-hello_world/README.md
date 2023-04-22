@@ -1,4 +1,4 @@
-# alx-low_level_programming
+# 0x00-hello_world
 
 This repository contains tasks for learning the basics of the C programming language. Each task involves writing a C program to solve a specific problem.
 
