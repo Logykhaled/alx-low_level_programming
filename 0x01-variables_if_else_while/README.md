@@ -71,10 +71,7 @@ A program that prints all possible different combinations of two digits, separat
 12. The success combination in business is: Do what you do better... and: do more of what you do...
 A program that prints all possible different combinations of three digits, separated by a space.
 
-
-
-
-# credits
+# Credits
 The tasks in this repository were designed by Holberton School and are part of the school's curriculum for learning C programming.
 
 # Contributing
