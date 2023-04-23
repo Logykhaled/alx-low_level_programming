@@ -8,13 +8,10 @@
 int main(void)
 {
 	int i = 0;
-	for (i = 'A'; i <= 'Z'; i++)
+	
+	for (i = 0; i <= 9; i++)
 	{
-		if (i != 'Q' && i != 'E')
-		{
-			int lower_char = tolower(i);
-			putchar(lower_char);
-		}
+		printf("%d", i);
 	}
 	putchar('\n');
 	return (0);
