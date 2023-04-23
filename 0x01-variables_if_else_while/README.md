@@ -13,8 +13,7 @@ To use this repository, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/0x01-variables_if_else_while.git
-
+git clone https://github.com/Logykhaled/alx-low_level_programming.git
 
 Navigate to the project directory:
 
