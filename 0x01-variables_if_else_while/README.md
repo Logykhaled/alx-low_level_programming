@@ -72,7 +72,7 @@ A program that prints all possible different combinations of two digits, separat
 A program that prints all possible different combinations of three digits, separated by a space.
 
 # Credits
-The tasks in this repository were designed by Holberton School and are part of the school's curriculum for learning C programming.
+The tasks in this repository were designed by ALX Africa and are part of the school's curriculum for learning C programming.
 
 # Contributing
 Contributions to this repository are welcome! If you spot a bug or an error in the code, please feel free to open an issue or submit a pull request.
@@ -81,7 +81,7 @@ Contributions to this repository are welcome! If you spot a bug or an error in t
 This repository is licensed under the MIT license. See LICENSE for more information.
 
 # Acknowledgements
-We would like to thank Holberton School for providing the tasks in this repository and supporting the open-source community.
+We would like to thank ALX Africa for providing the tasks in this repository and supporting the open-source community.
 
 
 
